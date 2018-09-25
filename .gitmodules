@@ -1,5 +1,5 @@
 [submodule "lib/pyyaml"]
 	path = lib/pyyaml
-	url = https://github.com/yaml/pyyaml
+	url = git@github.com:Diagonactic/pyyaml.git
 	ignore = dirty
 	branch = master
